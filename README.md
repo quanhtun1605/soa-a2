@@ -1,2 +1,5 @@
-# soa-a2
-SOA UET Training Point
+SOA mini-project
+
+Hệ thống điểm rèn luyện UET
+
+Quanh
